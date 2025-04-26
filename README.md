@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Maarij-Aqeel
-- 👀 I’m interested in AI Programming, learning new skills, and working on exciting projects.
-- 🌱 I’m currently studying AI and working on a [Diet Planner Website](https://github.com/Maarij-Aqeel/SmartDietPlanner), which integrates with large language models (LLMs) to provide personalized nutrition advice and meal planning.
+- I’m passionate about AI programming, continuous learning, and building innovative solutions.
+- I’m currently advancing my studies in Artificial Intelligence, with a focus on applying cutting-edge technologies to real-world challenges.
 
-- 📫 How to reach me: 
+- How to reach me: 
   You can find me on GitHub: [@Maarij-Aqeel](https://github.com/Maarij-Aqeel)
   - GitHub: [@Maarij-Aqeel](https://github.com/Maarij-Aqeel)
   - Email: [maarijaqeel3200@gmail.com](mailto:your-email@example.com)
